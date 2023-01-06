@@ -1,0 +1,76 @@
+# The Fog
+This datapack adds a new origin to the Origins mod. This is a high-impact origin that allows you to fly without limit, but as a ball of gas, you obviously can't do much else.
+
+Check out the gallery for some pictures!
+
+#### Note
+This datapack is intended for social multiplayer servers. You can use it on single player, however because of its high gameplay impact, it should be treated as more of a challenge than something actually useful.
+
+## ❗Dependencies❗
+| Mod  | Description |
+| ------------- | ------------- |
+| [Origins](https://modrinth.com/mod/origins)  | Original mod providing the origins functionality.  |
+| [Pehkui](https://modrinth.com/mod/pehkui)  | Provides size changing functionality.  |
+
+The dependencies are also listed in each version description.
+
+## Origin
+Impact: 3
+
+*Universal (Applied to both forms):*
+
+🟢 You don't get hungry
+
+🟢 You can breath under water
+
+🟢 Punches deal an extra 3 damage
+
+🟢 Faster swim speed
+
+🟢 Heal 1 health per second while in water
+
+🟢 You take no fall damage
+
+🟡 1 block tall
+
+🟡 Immune to: Weakness, Strength, Regeneration, Poison, Slowness, Speed, Instant Damage, Instant Health, Fire Resistance, Hunger, Invisibility, Jump Boost
+
+🔴 Cannot wear armor or elytra
+
+🔴 Cannot deal any damage with weapons or tools
+
+🔴 Cannot use shields, buckets, or fishing rods
+
+🔴 Cannot regenerate health naturally
+
+🔴 Cannot eat, or drink potions (can still use splash potions)
+
+*Mist (Normal Form):*
+
+🟢 Infinite creative flight
+
+🟢 Toggle Ability (Primary): Phase, allows you to phase through blocks, while limiting your vision.
+
+🟡 Gain levitation when landing on the ground from the air, making it nearly impossible to walk normally
+
+🟡 Toggle Ability (Secondary): Solidify, changes form to "solidified" (see below). This change can last up to 45 seconds, based on how much water you have stored. You store water while in mist form, and faster if you are submerged in water.
+
+*Solidified:*
+
+🟢 Don't take damage in rain
+
+🟢 Can walk on ground normally
+
+🟡 Toggle Ability: De-solidify, changes form back to "mist". Happens automatically if you run out of water.
+
+🔴 No creative flight/levitation
+
+
+#### Note
+The particles used in the cloud might obstruct your vision. If that is the case, you can use your "Load Hotbar Activator" key to disable the particles for all people with this origin. (Anyone without this origin can still see the particles)
+
+## 📥 Installation
+This origin comes in two forms, the plain datapack and a fabric version. The fabric version is simply a repackaged version of the datapack, which allows you to use it just like a mod.
+<br/>
+
+Make sure that you know which version you are using. The datapack version should be installed following [these instructions](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack). The fabric version should be treated just like any other mod.
