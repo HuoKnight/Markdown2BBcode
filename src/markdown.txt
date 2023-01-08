@@ -1,9 +1,17 @@
 # The Fog
 This datapack adds a new origin to the Origins mod. This is a high-impact origin that allows you to fly without limit, but as a ball of gas, you obviously can't do much else.
 
+*italic*
+**BOLD**
+***This text is bold and italic***
+~~Strikethrough~~
+~~*Strikethrough italic*~~
+~~**Strikethrough bold**~~
+~~***Strikethrough bold and italic***~~
+
 Check out the gallery for some pictures!
 
-#### Note
+### Note
 This datapack is intended for social multiplayer servers. You can use it on single player, however because of its high gameplay impact, it should be treated as more of a challenge than something actually useful.
 
 ## ❗Dependencies❗
@@ -66,7 +74,7 @@ Impact: 3
 🔴 No creative flight/levitation
 
 
-#### Note
+### Note
 The particles used in the cloud might obstruct your vision. If that is the case, you can use your "Load Hotbar Activator" key to disable the particles for all people with this origin. (Anyone without this origin can still see the particles)
 
 ## 📥 Installation
